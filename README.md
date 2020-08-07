@@ -4,7 +4,7 @@ It is a telegram bot which plays "rock paper scissors" with you
 
 I used pyTelegramBotAPI to create this bot 
 
-To make you bot work you need:
+To make your bot work you need:
 1- First of all sign up in Telegram, if you don't have an account.
 2- Create telegram bot. It is very easy u can find the instructions in the internet.
 3- After you created a bot, copy its token.
